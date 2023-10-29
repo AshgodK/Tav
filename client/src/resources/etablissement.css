@@ -1,0 +1,26 @@
+/* permi.css */
+
+.filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 3px gray;
+    padding: 15px 20px;
+    border-radius: 15px;
+  }
+  
+  .filter-button {
+    margin-left: auto;
+  }
+  .etablissement-form label{
+    color: rgba(0, 0, 0, 0.753) !important ;
+  }
+  .save-button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 3px gray;
+    padding: 15px 20px;
+    border-radius: 15px;
+
+  }
